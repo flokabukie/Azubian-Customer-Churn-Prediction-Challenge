@@ -80,7 +80,7 @@ The raw dataset was then transformed into a well-structured set that can enhance
 
 
 ### **Model Selection**
-In this Customer Churn Prediction Project, it is imperative to choose an appropriate machine learning algorithm. Since this Project is a classification Project, some common algorithms best for it include logistic regression, random forests, support vector machines, and gradient boosting algorithms. Different models need to be evaluated using suitable performance metrics (AUC) to determine which one performs best for this project.
+In this Customer Churn Prediction Project, it is imperative to choose an appropriate machine learning algorithm. Since this Project is a classification Project, some common algorithms best for it include logistic regression, random forests, support vector machines, and gradient boosting algorithms. Different models need to be evaluated using suitable performance metrics (ROC_AUC) to determine which one performs best for this project.
 
 Five (5) of these Algorithms were trained, evaluated and compared;
 
@@ -89,3 +89,11 @@ Five (5) of these Algorithms were trained, evaluated and compared;
 3. Gradient Boosting Classifier
 4. K Nearest Neighbors
 5. Decision Tree Classifier
+
+
+### **Model Hyperparameter Tuning**
+
+Hyperparameter tuning is important in machine learning models because they help to control their behavior and performance. Tuning these hyperparameters can significantly impact the model’s predictive power.
+
+
+In performing hyperparameter tuning, the training data is divided into a set for training and a set for testing the hyperparameters, which is also known as the validation set. 
