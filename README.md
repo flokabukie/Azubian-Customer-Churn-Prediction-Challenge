@@ -48,6 +48,7 @@ EDA (Exploratory Data Analysis) for this Project  involved analyzing and underst
 
 ![Alt text](uni3-1.png) ![Alt text](uni1-1.png) ![Alt text](uni2-1.png) 
 ![Alt text](bi3-2.png)
+![Alt text](c2-1.png)
 
 From the EDA performed we realized that the data is imbalanced since the number of customers who aren't churning made up the majority of the dataset.
 
