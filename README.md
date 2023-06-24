@@ -58,4 +58,22 @@ In dealing with this issue:
 
 2. The type of machine learning algorithms that will be used are the Tree based models and other regression models.
 
+### **Feature Engineering**
 
+Feature engineering involves transforming the dataset into a format suitable for training a machine learning model. This includes handling missing values, scaling numerical features, and encoding categorical variables. Additionally, there may be the need to create new features or extract relevant information from existing ones to improve the model’s predictive power.
+
+For this project, some of the steps taken in feature engineering include the following;
+
+1. Imputation of missing data
+Encoding of categorical variables
+
+2. Transformation of variables
+Discrete variable discretization
+
+3. Taking Care of Outliers
+
+4. Scaling of numerical features
+5. Creating new features 
+6. Feature extraction 
+
+The raw dataset was then transformed into a well-structured set that can enhance the accuracy and effectiveness of the sepsis prediction model embedded within the app.
