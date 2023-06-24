@@ -77,3 +77,15 @@ Discrete variable discretization
 6. Feature extraction 
 
 The raw dataset was then transformed into a well-structured set that can enhance the accuracy and effectiveness of the sepsis prediction model embedded within the app.
+
+
+### **Model Selection**
+In this Customer Churn Prediction Project, it is imperative to choose an appropriate machine learning algorithm. Since this Project is a classification Project, some common algorithms best for it include logistic regression, random forests, support vector machines, and gradient boosting algorithms. Different models need to be evaluated using suitable performance metrics (AUC) to determine which one performs best for this project.
+
+Five (5) of these Algorithms were trained, evaluated and compared;
+
+1. Logistic Regression
+2. Random Forest Classifier
+3. Gradient Boosting Classifier
+4. K Nearest Neighbors
+5. Decision Tree Classifier
