@@ -41,3 +41,8 @@ There is a significant relationship between the customers' characteristics and t
 The data was dowloaded from Zindi as a challenge.
 
 To understand the data, we went through the variable definitions of the given columns which contains information related to telecommunications customers, including their region, tenure, recharge amount, frequency of recharge, revenue, data usage, and other variables.
+
+### **Exploratory Data Analysis**
+
+EDA (Exploratory Data Analysis) for this Project  involved analyzing and understanding the dataset to gain insights into the variables and their relationship with customer churn. It helped the team in identifying patterns, trends, anomalies, and correlations within the data, which informed feature selection, model building, and decision-making. Below are some visualizations of the EDA performed with a summary of insight gathered.
+
