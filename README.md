@@ -13,7 +13,7 @@ Customer churn prediction refers to the process of using data analysis and predi
 
 The objective of this challenge is to develop a machine learning model to predict the likelihood of each customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.
 
-###**Hypothesis**
+### **Hypothesis**
 
 Null hypothesis(H0): There is no significant relationship between the customers' characteristics and the churn rate. In other words, the variables in the dataset have no impact on customer churn.
 
