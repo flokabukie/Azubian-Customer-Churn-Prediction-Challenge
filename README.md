@@ -46,7 +46,8 @@ To understand the data, we went through the variable definitions of the given co
 
 EDA (Exploratory Data Analysis) for this Project  involved analyzing and understanding the dataset to gain insights into the variables and their relationship with customer churn. It helped the team in identifying patterns, trends, anomalies, and correlations within the data, which informed feature selection, model building, and decision-making. Below are some visualizations of the EDA performed with a summary of insight gathered.
 
-![Alt text](uni3-1.png) ![Alt text](uni1-1.png) ![Alt text](uni2-1.png) ![Alt text](bi3-1.png)
+![Alt text](uni3-1.png) ![Alt text](uni1-1.png) ![Alt text](uni2-1.png) 
+![Alt text](bi3-2.png)
 
 From the EDA performed we realized that the data is imbalanced since the number of customers who aren't churning made up the majority of the dataset.
 
