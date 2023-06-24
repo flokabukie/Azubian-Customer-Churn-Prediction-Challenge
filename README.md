@@ -34,3 +34,10 @@ There is a significant relationship between the customers' characteristics and t
 
 ![Alt text](c1-1.png)
 
+### **Getting our Data**
+
+![Alt text](Z1-1.png)
+
+The data was dowloaded from Zindi as a challenge.
+
+To understand the data, we went through the variable definitions of the given columns which contains information related to telecommunications customers, including their region, tenure, recharge amount, frequency of recharge, revenue, data usage, and other variables.
