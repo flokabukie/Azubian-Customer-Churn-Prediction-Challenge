@@ -6,3 +6,26 @@ Customer Churn Prediction for an African Telecommunications Company that offers 
 
 ## **What is Customer Churn?**
 ![Alt text](5-Effective-Tips-To-Reduce-Customer-Churn-removebg-preview-1.png)
+
+Customer churn prediction refers to the process of using data analysis and predictive modeling techniques to identify customers who are likely to stop using a product or service. Churn, in this context, refers to customer attrition or the loss of customers from this African Telecommunications Company
+
+## **Project Objective:**
+
+The objective of this challenge is to develop a machine learning model to predict the likelihood of each customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.
+
+###**Hypothesis**
+
+Null hypothesis(H0): There is no significant relationship between the customers' characteristics and the churn rate. In other words, the variables in the dataset have no impact on customer churn.
+
+**Alternative hypothesisH1):** 
+
+There is a significant relationship between the customers' characteristics and the churn rate. The variables in the dataset have an impact on customer churn.
+
+**Business Questions****
+1. What is the overall churn rate of the company?
+2. Which region has the highest representation?
+3. Which tenure has the highest representation?
+4. Does the length of tenure (months) affect the churn rate of customers?
+5. Which Region has most clients churning?
+6. Do client churn or not churn if active for 90 days (Regularity)?
+7. What's the correlation between the various features?
