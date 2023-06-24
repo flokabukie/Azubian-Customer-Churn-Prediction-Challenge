@@ -29,3 +29,8 @@ There is a significant relationship between the customers' characteristics and t
 5. Which Region has most clients churning?
 6. Do client churn or not churn if active for 90 days (Regularity)?
 7. What's the correlation between the various features?
+
+### **Project Process**
+
+![Alt text](c1-1.png)
+
