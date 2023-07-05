@@ -42,58 +42,9 @@ The data was dowloaded from Zindi as a challenge.
 
 To understand the data, we went through the variable definitions of the given columns which contains information related to telecommunications customers, including their region, tenure, recharge amount, frequency of recharge, revenue, data usage, and other variables.
 
-### **Exploratory Data Analysis**
 
-EDA (Exploratory Data Analysis) for this Project  involved analyzing and understanding the dataset to gain insights into the variables and their relationship with customer churn. It helped the team in identifying patterns, trends, anomalies, and correlations within the data, which informed feature selection, model building, and decision-making. Below are some visualizations of the EDA performed with a summary of insight gathered.
-
-![Alt text](uni3-1.png) ![Alt text](uni1-1.png) ![Alt text](uni2-1.png) 
-![Alt text](bi3-2.png)
-![Alt text](c2-1.png)
-
-From the EDA performed we realized that the data is imbalanced since the number of customers who aren't churning made up the majority of the dataset.
-
-In dealing with this issue:
-
-1. All other evaluation metrics will be used except 'accuracy' since it will be in favour of the majority class
-
-2. The type of machine learning algorithms that will be used are the Tree based models and other regression models.
-
-### **Feature Engineering**
-
-Feature engineering involves transforming the dataset into a format suitable for training a machine learning model. This includes handling missing values, scaling numerical features, and encoding categorical variables. Additionally, there may be the need to create new features or extract relevant information from existing ones to improve the model’s predictive power.
-
-For this project, some of the steps taken in feature engineering include the following;
-
-1. Imputation of missing data
-Encoding of categorical variables
-
-2. Transformation of variables
-Discrete variable discretization
-
-3. Taking Care of Outliers
-
-4. Scaling of numerical features
-5. Creating new features 
-6. Feature extraction 
-
-The raw dataset was then transformed into a well-structured set that can enhance the accuracy and effectiveness of the sepsis prediction model embedded within the app.
-
-
-### **Model Selection**
-In this Customer Churn Prediction Project, it is imperative to choose an appropriate machine learning algorithm. Since this Project is a classification Project, some common algorithms best for it include logistic regression, random forests, support vector machines, and gradient boosting algorithms. Different models need to be evaluated using suitable performance metrics (ROC_AUC) to determine which one performs best for this project.
-
-Five (5) of these Algorithms were trained, evaluated and compared;
-
-1. Logistic Regression
-2. Random Forest Classifier
-3. Gradient Boosting Classifier
-4. K Nearest Neighbors
-5. Decision Tree Classifier
-
-
-### **Model Hyperparameter Tuning**
-
-Hyperparameter tuning is important in machine learning models because they help to control their behavior and performance. Tuning these hyperparameters can significantly impact the model’s predictive power.
-
-
-In performing hyperparameter tuning, the training data is divided into a set for training and a set for testing the hyperparameters, which is also known as the validation set. 
+## Summary
+| Code      | Name        | ML Development Notebook|App Development| Deployed App | PowerPoint Presentation of Challenge |
+|-----------|-------------|-------------:|-------------:|-------------|-------------|
+| Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  | |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
+| Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  |[Gradio App Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb/) |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
