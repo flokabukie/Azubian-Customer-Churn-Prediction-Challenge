@@ -60,3 +60,6 @@ Florentia Teye is a Data Scientist with experience in data analysis and machine 
 
 #### **This is a link to the deployed app** 
 [![Alt text](image-1.png)](https://huggingface.co/spaces/flokabukie/Customer-Churn-Prediction-Gradio-App)
+
+
+![Alt text](image-2.png)
