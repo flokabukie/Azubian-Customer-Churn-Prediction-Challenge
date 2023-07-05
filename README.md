@@ -52,6 +52,7 @@ To understand the data, we went through the variable definitions of the given co
 
 ## **Author**
 #### **Florentia Teye**
+Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
 
 [![Alt text](image.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
 
