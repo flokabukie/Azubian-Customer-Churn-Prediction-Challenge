@@ -48,3 +48,14 @@ To understand the data, we went through the variable definitions of the given co
 |-----------|-------------|-------------:|-------------:|-------------|-------------|
 | Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  | |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
 | Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  |[Gradio App Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb/) |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
+
+
+## **Author**
+#### **Florentia Teye**
+
+[![Alt text](image.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
+
+
+
+#### **This is a link to the deployed app** 
+[![Alt text](image-1.png)](https://huggingface.co/spaces/flokabukie/Customer-Churn-Prediction-Gradio-App)
