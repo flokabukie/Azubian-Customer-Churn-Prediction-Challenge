@@ -5,7 +5,8 @@
 Customer Churn Prediction for an African Telecommunications Company that offers airtime and mobile data bundles. The company wants to develop a machine learning model that can accurately predict the likelihood of each customer "churning" – becoming inactive and not making any transactions for 90 days.
 
 ## **What is Customer Churn?**
-![Alt text](5-Effective-Tips-To-Reduce-Customer-Churn-removebg-preview-1.png)
+
+![Alt text](5-Effective-Tips-To-Reduce-Customer-Churn-removebg-preview.png)
 
 Customer churn prediction refers to the process of using data analysis and predictive modeling techniques to identify customers who are likely to stop using a product or service. Churn, in this context, refers to customer attrition or the loss of customers from this African Telecommunications Company
 
@@ -14,7 +15,7 @@ Customer churn prediction refers to the process of using data analysis and predi
 
 ### **Project Process**
 
-![Alt text](c1-1.png)
+![Alt text](c1.png)
 
 ### **Getting our Data**
 
