@@ -25,10 +25,19 @@ The data was dowloaded from Zindi as a challenge.
 To understand the data, we went through the variable definitions of the given columns which contains information related to telecommunications customers, including their region, tenure, recharge amount, frequency of recharge, revenue, data usage, and other variables.
 
 
+### Evaluation 
+The evaluation metric for this challenge is [Area Under the Curve (AUC)](https://zindi.africa/learn/zindi-error-metric-series-how-to-use-area-under-curve-auc-as-an-evaluation-metric-for-machine-learning/).
+
+The values representing Churn are 0 and 1. Where 1 indicates the customer churned and 0 indicates the customer stayed with the telecom company.
+
+### Dataset
+Kindly find the dataset for this challenge [here](https://zindi.africa/competitions/customer-churn-prediction-challenge-for-azubian/data/)
+
 ## Summary
 | Code      | Name        | ML Development Notebook|App Development| Deployed App | PowerPoint Presentation of Challenge |
 |-----------|-------------|-------------:|-------------:|-------------|-------------|
- [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  |[Gradio App Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb/) |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
+| Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  |[Gradio App Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb/) |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
+
 
  
 
